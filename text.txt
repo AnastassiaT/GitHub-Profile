@@ -1,0 +1,8 @@
+API - Application Programming Interface
+Client - Entity which is using API by executing HTTP(s) calls
+Server - Entity which servers API, by providing a response to HTTP(s) calls
+JSON - lightweight data interchange format
+entity - сущность
+to serve - предоставлять
+response - отзыв, ответ
+interchange - обмен
